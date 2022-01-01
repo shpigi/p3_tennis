@@ -94,7 +94,7 @@ WEIGHT_DECAY = 0        # L2 weight decay
 Hidden layer sizes are 400 and 300 as appears above
 
 ### Training parameters:
-Number of steps (for all 20 agents) beween model updates: `15`
+Number of steps (for both agents) beween model updates: `15`
 
 Number of consecutive (Adam) optimizer updates within a single model update step: `20`
 
