@@ -12,7 +12,7 @@ In this project I worked with the (by-now-deprecated) (https://github.com/Unity-
 
 !["Trained Agent"](./trained_agent_playing.gif)
 
-(run example with the model I trained in 988 episodes)
+(run example with the model I trained in 1076 episodes)
 
 In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1.  If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01.  Thus, the goal of each agent is to keep the ball in play.
 
